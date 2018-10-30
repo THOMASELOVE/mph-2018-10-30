@@ -1,12 +1,18 @@
 # mph-2018-10-30
 
-Talk for the CWRU MPH program's Community Health Research &amp; Practice seminar on 2018-10-30
+"Building Population Health at Better Health Partnership: Making an impact on the Health of Northeast Ohio"
+
+Case Western Reserve University MPH program's Community Health Research &amp; Practice research interest group seminar, given on 2018-10-30
 
 By Thomas E. Love, Chief Data Scientist, Better Health Partnership and Professor of Medicine, Population and Quantitative Health Sciences at CWRU.
 
-## Links
+## The Slide Deck
 
-[Here is a PDF of the slides for the talk]().
+The talk is [available at SpeakerDeck](https://speakerdeck.com/thomaselove/building-population-health-at-better-health-partnership-making-an-impact-on-the-health-of-northeast-ohio).
+
+- [Here is a PDF of the slides for the talk](https://github.com/THOMASELOVE/mph-2018-10-30/blob/master/Love_2018-10_30_MPH_CommunityHealthResearchandPractice.pdf). 
+
+## Links
 
 - FiveThirtyEight, "[More Americans Are Dying from Suicide, Drug Use And Diarrhea](https://projects.fivethirtyeight.com/mortality-rates-united-states/)" by Ella Koeze and Anna Maria Barry-Jester, 2018-04-02.
 - [Better Health Partnership](http://betterhealthpartnership.org/), and its [Data Center](http://www.betterhealthpartnership.org/data_center/)
