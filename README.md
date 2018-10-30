@@ -1,6 +1,6 @@
 # mph-2018-10-30
 
-"Building Population Health at Better Health Partnership: Making an impact on the Health of Northeast Ohio"
+"**Building Population Health at Better Health Partnership**: Making an impact on the Health of Northeast Ohio"
 
 Case Western Reserve University MPH program's Community Health Research &amp; Practice research interest group seminar, given on 2018-10-30
 
