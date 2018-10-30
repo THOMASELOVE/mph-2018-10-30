@@ -2,7 +2,7 @@
 
 Talk for the CWRU MPH program's Community Health Research &amp; Practice seminar on 2018-10-30
 
-By Thomas E. Love, Chief Data Scientist, Better Health Partnership and Professor of Medicine, Population and Quantitative Health Sciences at CWRU. E: `thomas.love at case.edu`
+By Thomas E. Love, Chief Data Scientist, Better Health Partnership and Professor of Medicine, Population and Quantitative Health Sciences at CWRU.
 
 ## Links
 
