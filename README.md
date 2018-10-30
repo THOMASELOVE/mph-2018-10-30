@@ -8,9 +8,8 @@ By Thomas E. Love, Chief Data Scientist, Better Health Partnership and Professor
 
 ## The Slide Deck
 
-The talk is [available at SpeakerDeck](https://speakerdeck.com/thomaselove/building-population-health-at-better-health-partnership-making-an-impact-on-the-health-of-northeast-ohio).
-
-- [Here is a PDF of the slides for the talk](https://github.com/THOMASELOVE/mph-2018-10-30/blob/master/Love_2018-10_30_MPH_CommunityHealthResearchandPractice.pdf). 
+- The talk is [available at SpeakerDeck](https://speakerdeck.com/thomaselove/building-population-health-at-better-health-partnership-making-an-impact-on-the-health-of-northeast-ohio).
+- Here is a [PDF of the slides for the talk](https://github.com/THOMASELOVE/mph-2018-10-30/blob/master/Love_2018-10_30_MPH_CommunityHealthResearchandPractice.pdf) in a two-slides per page handout. 
 
 ## Links
 
