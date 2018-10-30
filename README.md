@@ -20,7 +20,7 @@ By Thomas E. Love, Chief Data Scientist, Better Health Partnership and Professor
 
 ## Upcoming Events
 
-1. For more information on or to registrar for our Learning Collaborative Summit "Block-by-Block Better Health" on 2018-11-09 in Summit County, visit our [Fall 2018 Learning Collaborative website](http://betterhealthpartnership.org/lc_fall_2018.asp).
+1. For more information on or to registrar for our Learning Collaborative Summit "Block-by-Block Better Health" on **2018-11-09** in Summit County, visit our [Fall 2018 Learning Collaborative website](http://betterhealthpartnership.org/lc_fall_2018.asp).
 
 2. Save the date for our **2019-03-01** Better Health Partnership Report to the Public, at the City Club of Cleveland. For more information, email `info@betterhealthpartnership.org`.
 
